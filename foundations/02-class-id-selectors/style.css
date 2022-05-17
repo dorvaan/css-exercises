@@ -1,0 +1,18 @@
+.p-class {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.p-large{
+    font-size: 24px;
+}
